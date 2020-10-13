@@ -20,7 +20,9 @@ git clone https://github.com/aahmad4/Tic-Tac-Toe
 ```
 
 #### Usage
-
+```
+cd Tic-Tac-Toe
+```
 ```
 python pythonTicTacToeGame.py
 ```
