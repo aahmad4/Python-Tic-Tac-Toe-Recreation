@@ -13,13 +13,13 @@ Compile the program and the game will have begun. It will be you vs another play
 
 ## Setup
 
-### Clone
+#### Clone
 
 ```
 git clone https://github.com/aahmad4/Tic-Tac-Toe
 ```
 
-### Usage
+#### Usage
 
 ```
 python pythonTicTacToeGame.py
